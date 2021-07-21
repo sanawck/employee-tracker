@@ -41,6 +41,18 @@ function MainPrompt() {
             value: "add emloyee?",
           },
           {
+            name: "Update Employee",
+            value: "update emloyee?",
+          },
+          {
+            name: "Update Role",
+            value: "update role?",
+          },
+          {
+            name: "Update Department",
+            value: "update department?",
+          },
+          {
             name: "quit",
             value: "quit program?",
           },
